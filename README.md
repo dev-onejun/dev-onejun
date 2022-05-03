@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 
 ### Hi 👋
 I'm Konkuk University student majoring in Computer Science Engineering.
-#### Project that I participate ...
-* Weltried
-    - A service that recognize users' sitting posture via WELT's smart belt.
+#### Projects that I participate ...
+##### Family-Blog
+* A toy project figured my family blog.
+    - My position: Full-Stack Web Developer
+##### Weltried
+* A service that recognize users' sitting posture via WELT's smart belt.
     - My position: Back-End Developer
 
 #### I'm interested in ...

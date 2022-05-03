@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 ### Hi 👋
 I'm Konkuk University student majoring in Computer Science Engineering.
+#### Project that I participate ...
+* Weltried
+    - A service that recognize users' sitting posture via WELT's smart belt.
+    - My position: Back-End Developer
+
 #### I'm interested in ...
 1) Artificial Intelligence
 2) Biotechnology that can integrate with computers such as BCI (Brain Computer Interface)

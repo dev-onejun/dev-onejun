@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me:
-    + Contact me.<br>
-    wjjgjk@naver.com
+### Hi 👋
+I'm Konkuk University student majoring in Computer Science Engineering.
+#### I'm interested in ...
+1) Artificial Intelligence
+2) Biotechnology that can integrate with computers such as BCI (Brain Computer Interface)
+3) Quantum Computer

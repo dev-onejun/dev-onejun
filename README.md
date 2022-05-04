@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ### Hi 👋
 I'm Konkuk University student majoring in Computer Science Engineering.
+* [HERE](htttps://dev-onejun.github.io/) is the link to my Github Blog,
+    and I use it organizing articles that I want.
 #### Projects that I participate ...
 ##### Family-Blog
 * A toy project figured my family blog.

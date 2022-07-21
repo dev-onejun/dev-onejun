@@ -41,10 +41,10 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 </p>
 
 #### Projects that I participate ...
-##### Family-Blog
+##### [Family-Blog](https://github.com/dev-onejun/family-blog)
 * A toy project figured my family blog.
     - My position: Full-Stack Web Developer
-##### Weltried
+##### [Weltried](https://github.com/dev-onejun/weltried-server)
 * A service that recognize users' sitting posture via WELT's smart belt.
     - My position: Back-End Developer
 

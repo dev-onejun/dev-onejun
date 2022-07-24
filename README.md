@@ -45,10 +45,10 @@ I'm Konkuk University student majoring in Computer Science Engineering.
     - My position: Full-Stack Web Developer
 ##### [Weltried](https://github.com/dev-onejun/weltried-server)
 * A service that recognize users' sitting posture via WELT's smart belt.
-    - My position: Back-End Developer
+    - My position: Backend Developer
 ##### [Foodket-List](https://github.com/dev-onejun/be-foodket-list)
 * A SNS service that can follow your friend's must-go restaurants.
-    - My position: Back-end Developer
+    - My position: Backend Developer
 
 #### I am looking for ...
 ##### Projects what I can use ...

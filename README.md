@@ -39,6 +39,9 @@ I'm Konkuk University student majoring in Computer Science Engineering.
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
+#### Study Repositories
+* [Data Structure](./DataStructure), [Algorithm](./Algorithm-Study), [Self Study](./Self-Study), [Nest.js](./Nest.js-Study), [Database](./Database), [Artificial Intelligence](./AI-Study)
+
 #### Projects that I participate ...
 ##### [Family-Blog](https://github.com/dev-onejun/family-blog)
 * A toy project figured my family blog.
@@ -47,7 +50,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 * A service that recognize users' sitting posture via WELT's smart belt.
     - My position: Backend Developer
 ##### [Foodket-List](https://github.com/dev-onejun/be-foodket-list)
-* A SNS service that can follow your friend's must-go restaurants.
+* A toy project about SNS service that can follow your friend's must-go restaurants.
     - My position: Backend Developer
 
 #### I am looking for ...

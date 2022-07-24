@@ -40,7 +40,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 </p>
 
 #### Study Repositories
-* [Data Structure](./DataStructure), [Algorithm](./Algorithm-Study), [Self Study](./Self-Study), [Nest.js](./Nest.js-Study), [Database](./Database), [Artificial Intelligence](./AI-Study)
+* [Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Self Study](https://github.com/dev-onejun/Self-Study), [Nest.js](https://github.com/dev-onejun/Nest.js-Study), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study)
 
 #### Projects that I participate ...
 ##### [Family-Blog](https://github.com/dev-onejun/family-blog)

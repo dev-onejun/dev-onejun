@@ -21,12 +21,8 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 * [HERE](https://dev-onejun.github.io/) is the link to my Github Blog,
     and I use it organizing articles that I want.
 
-#### I have used ...
+#### I have used
 <p>
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p><p>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
@@ -39,13 +35,12 @@ I'm Konkuk University student majoring in Computer Science Engineering.
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-#### Study Repositories
-* [Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Web/App/Server](https://github.com/dev-onejun/Self-Study), [Nest.js](https://github.com/dev-onejun/Nest.js-Study/tree/dev-onejun), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study), Qiskit
-
-#### Contribution Repository(s)
-* [wp2txt](https://github.com/yohasebe/wp2txt)
-
-#### Projects that I participate ...
+#### I participate
+|Category|Repository|
+|--------|----------|
+|Study|[Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Web/App/Server](https://github.com/dev-onejun/Self-Study), [Nest.js](https://github.com/dev-onejun/Nest.js-Study/tree/dev-onejun), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study), Qiskit|
+|Contribution|[wp2txt](https://github.com/yohasebe/wp2txt)|
+##### Projects
 |Title|Description|My Position|
 |-----------|--------|------------|
 |[Family-Blog](https://github.com/dev-onejun/family-blog)|A toy project figured my family blog.|Full-Stack Web Developer|

@@ -40,23 +40,22 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 </p>
 
 #### Study Repositories
-* [Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Self Study](https://github.com/dev-onejun/Self-Study), [Nest.js](https://github.com/dev-onejun/Nest.js-Study/tree/dev-onejun), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study)
+* [Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Web/App/Server](https://github.com/dev-onejun/Self-Study), [Nest.js](https://github.com/dev-onejun/Nest.js-Study/tree/dev-onejun), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study), Qiskit
+
+#### Contribution Repository(s)
+* [wp2txt](https://github.com/yohasebe/wp2txt)
 
 #### Projects that I participate ...
-##### [Family-Blog](https://github.com/dev-onejun/family-blog)
-* A toy project figured my family blog.
-    - My position: Full-Stack Web Developer
-##### [Weltried](https://github.com/dev-onejun/weltried-server)
-* A service that recognize users' sitting posture via WELT's smart belt.
-    - My position: Backend Developer
-##### [Foodket-List](https://github.com/dev-onejun/be-foodket-list)
-* A toy project about SNS service that can follow your friend's must-go restaurants.
-    - My position: Backend Developer
+|Title|Description|My Position|
+|-----------|--------|------------|
+|[Family-Blog](https://github.com/dev-onejun/family-blog)|A toy project figured my family blog.|Full-Stack Web Developer|
+|[Weltried](https://github.com/dev-onejun/weltried-server)|A service that recognize users' sitting posture via WELT's smart belt.|Backend Developer|
+|[Foodket-List](https://github.com/dev-onejun/be-foodket-list)|A toy project about SNS service that can follow your friend's must-go restaurants.|Backend Developer|
 
 #### I am looking for ...
 ##### Projects what I can use ...
-* <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 * <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+* <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
 #### I'm interested in ...
 1) Artificial Intelligence

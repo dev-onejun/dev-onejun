@@ -55,7 +55,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 |-----------|--------|------------|
 |[Family-Blog](https://github.com/dev-onejun/family-blog)|A toy project figured my family blog.|Full-Stack Web Developer|
 |[Weltried](https://github.com/dev-onejun/weltried-server)|A service that recognize users' sitting posture via WELT's smart belt.|Backend Developer|
-|[group-sharing](https://github.com/dev-onejun/Github-OAuth-ExpressJS)|A server which is used micro-service architecture about login in group-sharing project.|Backend Developer|
+|[group-sharing](https://github.com/dev-onejun/Github-OAuth-ExpressJS)|A server about github login in group-sharing project.|Backend Developer|
 |[Foodket-List](https://github.com/dev-onejun/be-foodket-list)|A toy project about SNS service that can follow your friend's must-go restaurants.|Backend Developer|
 
 <!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dev-onejun&repo=wp2txt)](https://github.com/yohasebe/wp2txt)-->
@@ -67,5 +67,5 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 #### I'm interested in ...
 1) Artificial Intelligence
-2) Bioinformatics such as BCI
+2) Bioinformatics
 3) Quantum Computer

@@ -53,10 +53,10 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 ##### Projects
 |Title|Description|My Position|
 |-----------|--------|------------|
-|[Family-Blog](https://github.com/dev-onejun/family-blog)|a toy project, a photo board of my family.|Full-Stack Web Developer|
-|[Weltried](https://github.com/dev-onejun/weltried-server)|a service recognizing users' sitting posture via WELT's smart belts, wearable devices.|Backend Developer|
-|[group-sharing](https://github.com/dev-onejun/Github-OAuth-ExpressJS)|a server about github login in the group-sharing project.|Backend Developer|
-|[Foodket-List](https://github.com/dev-onejun/be-foodket-list)|a toy project, a SNS service that can follow your friend's must-go restaurants.|Backend Developer|
+|[Family-Blog](https://github.com/dev-onejun/family-blog)|a toy project, ***a photo board*** of my family.|Full-Stack Web Developer|
+|[Weltried](https://github.com/dev-onejun/weltried-server)|a service recognizing users' sitting posture via ***WELT's smart belts, wearable devices***.|Backend Developer|
+|[group-sharing](https://github.com/dev-onejun/Github-OAuth-ExpressJS)|a server about ***github oauth login*** in the group-sharing project.|Backend Developer|
+|[Foodket-List](https://github.com/dev-onejun/be-foodket-list)|a toy project, ***a SNS service*** that can follow your friend's must-go restaurants.|Backend Developer|
 
 <!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dev-onejun&repo=wp2txt)](https://github.com/yohasebe/wp2txt)-->
 

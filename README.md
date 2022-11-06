@@ -45,7 +45,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-#### I participate
+#### Related Repositories
 |Category|Repository|
 |--------|----------|
 |Study|[Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Web/App/Server](https://github.com/dev-onejun/Self-Study), [Nest.js](https://github.com/dev-onejun/Nest.js-Study/tree/dev-onejun), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study), [Qiskit](https://github.com/dev-onejun/qiskit-study)|
@@ -53,19 +53,19 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 ##### Projects
 |Title|Description|My Position|
 |-----------|--------|------------|
-|[Family-Blog](https://github.com/dev-onejun/family-blog)|A toy project figured my family blog.|Full-Stack Web Developer|
-|[Weltried](https://github.com/dev-onejun/weltried-server)|A service that recognize users' sitting posture via WELT's smart belt.|Backend Developer|
-|[group-sharing](https://github.com/dev-onejun/Github-OAuth-ExpressJS)|A server about github login in group-sharing project.|Backend Developer|
-|[Foodket-List](https://github.com/dev-onejun/be-foodket-list)|A toy project about SNS service that can follow your friend's must-go restaurants.|Backend Developer|
+|[Family-Blog](https://github.com/dev-onejun/family-blog)|a toy project, a photo board of my family.|Full-Stack Web Developer|
+|[Weltried](https://github.com/dev-onejun/weltried-server)|a service recognizing users' sitting posture via WELT's smart belts, wearable devices.|Backend Developer|
+|[group-sharing](https://github.com/dev-onejun/Github-OAuth-ExpressJS)|a server about github login in the group-sharing project.|Backend Developer|
+|[Foodket-List](https://github.com/dev-onejun/be-foodket-list)|a toy project, a SNS service that can follow your friend's must-go restaurants.|Backend Developer|
 
 <!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dev-onejun&repo=wp2txt)](https://github.com/yohasebe/wp2txt)-->
 
-#### I am looking for ...
+#### I am looking for
 ##### Projects using
-* <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 * Artificial Intelligence
+* <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 
-#### I'm interested in ...
+#### I'm interested in
 1) Artificial Intelligence
 2) Bioinformatics
 3) Quantum Computer

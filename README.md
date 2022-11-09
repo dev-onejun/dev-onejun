@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋
+# Hi 👋
+
 I'm Konkuk University student majoring in Computer Science Engineering.
+
 * [HERE](https://dev-onejun.github.io/) is the link to my Github Blog,
     and I use it organizing articles that I want.
 
 #### I have used
+
 <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -31,6 +34,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 </p>
 
 #### I am continuously studying
+
 <p>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
@@ -46,11 +50,14 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 </p>
 
 #### Related Repositories
+
 |Category|Repository|
 |--------|----------|
 |Study|[Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Web/App/Server](https://github.com/dev-onejun/Self-Study), [Nest.js](https://github.com/dev-onejun/Nest.js-Study/tree/dev-onejun), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study), [Qiskit](https://github.com/dev-onejun/qiskit-study)|
 |Contribution|[wp2txt](https://github.com/yohasebe/wp2txt)|
+
 ##### Projects
+
 |Title|Description|My Position|
 |-----------|--------|------------|
 |[Family-Blog](https://github.com/dev-onejun/family-blog)|a toy project, ***a photo board*** of my family.|Full-Stack Web Developer|
@@ -61,11 +68,14 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 <!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dev-onejun&repo=wp2txt)](https://github.com/yohasebe/wp2txt)-->
 
 #### I am looking for
+
 ##### Projects using
+
 * Artificial Intelligence
 * <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 
 #### I'm interested in
-1) Artificial Intelligence
-2) Bioinformatics
-3) Quantum Computer
+
+1. Artificial Intelligence
+2. Bioinformatics
+3. Quantum Computer

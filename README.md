@@ -56,6 +56,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 |-----------|--------|------------|
 |[Family-Blog](https://github.com/dev-onejun/family-blog)|a toy project, ***a photo board*** of my family.|Full-Stack Web Developer|
 |[Weltried](https://github.com/dev-onejun/weltried-server)|a service recognizing users' sitting posture via ***WELT's smart belts, wearable devices***.|Backend Developer|
+|[Github Copilot Code Review](https://github.com/dev-onejun/github-copilot-code-review)|a Computer Security Project, ***review about github copilot's auto-generated code with CodeQL***||
 
 #### Awards
 

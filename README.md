@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm Konkuk University student majoring in Computer Science Engineering.
 
-* [HERE](https://dev-onejun.github.io/) is the link to my Github Blog, and I use it organizing articles that I want.
+- Please visit [my blog](https://dev-onejun.github.io), if you want to know more about me.
 
 #### I have used
 
@@ -70,7 +70,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 #### Projects
 
 |Name|Description|My Position|
-|-----------|--------|------------|
+|----|-----------|-----------|
 |[Family-Blog](https://github.com/dev-onejun/family-blog)|a Toy Project, ***a photo board*** of my family.|Full-Stack Web Developer|
 |[Weltried](https://github.com/dev-onejun/weltried-server)|a Service recognizing users' sitting posture via ***WELT's smart belts, wearable devices***.|Backend Developer|
-|[Github Copilot Code Review](https://github.com/dev-onejun/github-copilot-code-review)|a Computer Security Project, ***a review about github copilot's auto-generated code with CodeQL***||
+|[Github Copilot Code Review](https://github.com/dev-onejun/github-copilot-code-review)|a Computer Security Project, ***a review about github copilot's auto-generated code with CodeQL***|-|

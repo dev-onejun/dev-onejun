@@ -50,7 +50,8 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 ### Experience
 
 2019.03\~06. Software Mentor for C Language in Konkuk Univ.\
-2019.09\~12. Software Mentor for JAVA Langauge in Konkuk Univ.
+2019.09\~12. Software Mentor for JAVA Langauge in Konkuk Univ.\
+2023.03\~06. K-SW Square Program at Purdue Univ.
 
 #### Awards
 

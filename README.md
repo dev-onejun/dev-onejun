@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 
 I'm Konkuk University student majoring in Computer Science Engineering.
 
-- Please visit [my blog](https://dev-onejun.github.io), if you want to know more about me.
+- Please visit [___my blog___](https://dev-onejun.github.io), if you want to know more about me.
 
-#### I have used
+<details><summary><h4>I have used</h4></summary>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</details>
 
 #### I am continuously studying
 
@@ -49,29 +51,35 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 ### Experience
 
-2019.03\~06. Software Mentor for C Language in Konkuk Univ.\
-2019.09\~12. Software Mentor for JAVA Langauge in Konkuk Univ.\
-2023.03\~06. K-SW Square Program at Purdue Univ.
+2019.03\~06. Software Mentor for C Language in Konkuk University\
+2019.09\~12. Software Mentor for JAVA Langauge in Konkuk University\
+2023.03\~06. K-SW Square Program at Purdue University
 
-#### Awards
+<details><summary><h4>Awards</h4></summary>
 
 |Date|Event|Name|Award|
 |----|-----|----|-----|
 |2022.06.25~26.|Google Developer Group Campus Korea Summer Hackathon|Group Sharing|Unicorn awards|
 
-#### Repositories
+</details>
+
+<details><summary><h4>Repositories</h4></summary>
 
 |Category|Repository|
 |--------|----------|
 |Study|[Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Web/App/Server](https://github.com/dev-onejun/Self-Study), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study), [Qiskit](https://github.com/dev-onejun/qiskit-study)|
 |Contribution|[wp2txt](https://github.com/yohasebe/wp2txt)|
 
+</details>
+
 <!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dev-onejun&repo=wp2txt)](https://github.com/yohasebe/wp2txt)-->
 
-#### Projects
+<details><summary><h4>Projects</h4></summary>
 
 |Name|Description|My Position|
 |----|-----------|-----------|
 |[Family-Blog](https://github.com/dev-onejun/family-blog)|a Toy Project, ***a photo board*** of my family.|Full-Stack Web Developer|
 |[Weltried](https://github.com/dev-onejun/weltried-server)|a Service recognizing users' sitting posture via ***WELT's smart belts, wearable devices***.|Backend Developer|
 |[Github Copilot Code Review](https://github.com/dev-onejun/github-copilot-code-review)|a Computer Security Project, ***a review about github copilot's auto-generated code with CodeQL***|-|
+
+</details>

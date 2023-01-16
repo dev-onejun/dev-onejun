@@ -22,7 +22,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 - Please visit [___my blog___](https://dev-onejun.github.io), if you want to know more about me.
 
-<details><summary><h4>I have used</h4></summary>
+<details markdown=1><summary markdown="span"><b>I have used</b></summary>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -30,6 +30,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </details>
+
 
 #### I am continuously studying
 
@@ -55,7 +56,8 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 2019.09\~12. Software Mentor for JAVA Langauge in Konkuk University\
 2023.03\~06. K-SW Square Program at Purdue University
 
-<details><summary><h4>Awards</h4></summary>
+
+<details markdown=1><summary markdown="span"><b>Awards</b></summary>
 
 |Date|Event|Name|Award|
 |----|-----|----|-----|
@@ -63,7 +65,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 </details>
 
-<details><summary><h4>Repositories</h4></summary>
+<details markdown=1><summary markdown="span"><b>Repositories</b></summary>
 
 |Category|Repository|
 |--------|----------|
@@ -74,7 +76,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 <!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dev-onejun&repo=wp2txt)](https://github.com/yohasebe/wp2txt)-->
 
-<details><summary><h4>Projects</h4></summary>
+<details markdown=1><summary markdown="span"><b>Projects</b></summary>
 
 |Name|Description|My Position|
 |----|-----------|-----------|

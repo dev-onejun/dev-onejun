@@ -1,21 +1,3 @@
-<!--
-### Hi there 👋
-
-
-**Aaaaiiiiiee/Aaaaiiiiiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi 👋
 
 I'm Konkuk University student majoring in Computer Science Engineering.
@@ -52,16 +34,18 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 ### Experience
 
-2019.03\~06. Software Mentor for C Language in Konkuk University\
-2019.09\~12. Software Mentor for JAVA Langauge in Konkuk University\
-2023.03\~06. K-SW Square Program at Purdue University
-
+|Date|Content|
+|----|-------|
+|2018.03 \~| Student at Konkuk University Software (Computer Science Engineering) Department |
+|2019.03 \~ 06| Software Mentor for C Language in Konkuk University|
+|2019.09 \~ 12| Software Mentor for JAVA Langauge in Konkuk University|
+|2023.03 \~ 06| K-SW Square Program at Purdue University|
 
 <details markdown=1><summary markdown="span"><b>Awards</b></summary>
 
 |Date|Event|Name|Award|
 |----|-----|----|-----|
-|2022.06.25~26.|Google Developer Group Campus Korea Summer Hackathon|Group Sharing|Unicorn awards|
+|2022.06.25 ~ 26|Google Developer Group Campus Korea Summer Hackathon|Group Sharing|Unicorn awards|
 
 </details>
 
@@ -73,8 +57,6 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 |Contribution|[wp2txt](https://github.com/yohasebe/wp2txt), [pynecone](https://github.com/pynecone-io/pynecone)|
 
 </details>
-
-<!--[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dev-onejun&repo=wp2txt)](https://github.com/yohasebe/wp2txt)-->
 
 <details markdown=1><summary markdown="span"><b>Projects</b></summary>
 

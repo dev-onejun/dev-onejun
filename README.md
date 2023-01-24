@@ -6,7 +6,8 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/wjjgjk)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/onejunpark)\
 \
-![dev-onejun's Github stats](https://github-readme-stats.vercel.app/api?username=dev-onejun&show_icons=true&theme=tokyonight) <!--theme=onedark-->
+![dev-onejun's Github stats](http://github-readme-stats-dev-onejun.vercel.app/api?username=dev-onejun&show_icons=true&theme=tokyonight) <!--theme=onedark-->
+
 
 I'm Konkuk University student majoring in Computer Science Engineering.
 

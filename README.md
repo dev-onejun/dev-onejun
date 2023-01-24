@@ -2,7 +2,7 @@
 
 I'm Konkuk University student majoring in Computer Science Engineering.
 
-- Please visit [___my blog___](https://dev-onejun.github.io), if you want to know more about me.
+- Please visit [___my github___](https://github.com/dev-onejun), if you want to know more about me.
 
 #### I'm interested in
 

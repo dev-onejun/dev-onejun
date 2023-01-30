@@ -1,3 +1,11 @@
+<div markdown=1 align="right">
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=dev-onejun&style=flat)
+![GitHub User's stars](https://img.shields.io/github/stars/dev-onejun?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/dev-onejun)
+
+</div>
+
 # Hi 👋
 
 I'm Konkuk University student majoring in Computer Science Engineering.

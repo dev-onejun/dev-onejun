@@ -32,7 +32,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 |Date|Event|Name|Award|
 |----|-----|----|-----|
-|2022.06.25 ~ 26|Google Developer Group Campus Korea Summer Hackathon|Group Sharing|Unicorn awards|
+|2022.06.25 ~ 26|Google Developer Group Campus Korea Summer Hackathon|Share Plate|Unicorn awards|
 
 </details>
 
@@ -42,6 +42,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 |--------|----------|
 |Study|[Data Structure](https://github.com/dev-onejun/DataStructure), [Algorithm](https://github.com/dev-onejun/Algorithm-Study), [Web/App/Server](https://github.com/dev-onejun/Self-Study), [Database](https://github.com/dev-onejun/Database), [Artificial Intelligence](https://github.com/dev-onejun/AI-Study), [Qiskit](https://github.com/dev-onejun/qiskit-study)|
 |Contribution|[wp2txt](https://github.com/yohasebe/wp2txt), [pynecone](https://github.com/pynecone-io/pynecone)|
+|Maintainer|[GitHub-OAuth-Login](https://github.com/dev-onejun/github-oauth-login)|
 
 </details>
 
@@ -51,6 +52,6 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 |----|-----------|-----------|
 |[Family-Blog](https://github.com/dev-onejun/family-blog)|a Toy Project, ***a photo board*** of my family.|Full-Stack Web Developer|
 |[Weltried](https://github.com/Weltried/server)|a Service recognizing users' sitting posture via ***WELT's smart belts, wearable devices***.|Backend Developer|
-|[Github Copilot Code Review](https://github.com/dev-onejun/github-copilot-code-review)|a Computer Security Project, ***a review about github copilot's auto-generated code with CodeQL***|-|
+|[GitHub Copilot Code Review](https://github.com/dev-onejun/github-copilot-code-review)|a Computer Security Project, ***a review about github copilot's auto-generated code with CodeQL***|-|
 
 </details>

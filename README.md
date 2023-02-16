@@ -28,7 +28,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 |2019.09 \~ 12| Software Mentor for JAVA Langauge in Konkuk University|
 |2023.03 \~ 06| K-SW Square Program at Purdue University|
 
-<details markdown=1><summary markdown="span"><b>Awards</b></summary>
+<details markdown=1><summary markdown="span"><h4>Awards</h4></summary>
 
 |Date|Event|Name|Award|
 |----|-----|----|-----|
@@ -36,7 +36,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 </details>
 
-<details markdown=1><summary markdown="span"><b>Repositories</b></summary>
+<details markdown=1><summary markdown="span"><h4>Repositories</h4></summary>
 
 |Category|Repository|
 |--------|----------|
@@ -46,7 +46,7 @@ I'm Konkuk University student majoring in Computer Science Engineering.
 
 </details>
 
-<details markdown=1><summary markdown="span"><b>Projects</b></summary>
+<details markdown=1><summary markdown="span"><h4>Projects</h4></summary>
 
 |Name|Description|My Position|
 |----|-----------|-----------|

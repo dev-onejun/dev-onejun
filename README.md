@@ -8,8 +8,7 @@
 \
 ![dev-onejun's Github stats](http://github-readme-stats-dev-onejun.vercel.app/api?username=dev-onejun&show_icons=true&theme=tokyonight) <!--theme=onedark-->
 
-
-I'm Konkuk University student majoring in Computer Science Engineering.
+I'm senior undergraduate student at Konkuk University Computer Science Engineering department.
 
 - Please visit [___my blog___](https://dev-onejun.github.io), if you want to know more about me.
 

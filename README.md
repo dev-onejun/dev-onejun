@@ -32,6 +32,7 @@ I'm senior undergraduate student at Konkuk University Computer Science Engineeri
 |Date|Event|Name|Award|
 |----|-----|----|-----|
 |2022.06.25 ~ 26|Google Developer Group Campus Korea Summer Hackathon|Share Plate|Unicorn awards|
+|2023.03.24|Konkuk SW Oriented University Association, SW Open Badge Certificate|-|Open|
 
 </details>
 

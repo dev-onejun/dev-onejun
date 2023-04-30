@@ -22,10 +22,10 @@ I'm senior undergraduate student at Konkuk University Computer Science Engineeri
 
 |Date|Content|
 |----|-------|
-|2018.03 \~| Student at Konkuk University Software (Computer Science Engineering) Department |
+|2018.03 \~| Undergraduate Student at Konkuk University Software (Computer Science Engineering) Department |
 |2019.03 \~ 06| Software Mentor for C Language in Konkuk University|
 |2019.09 \~ 12| Software Mentor for JAVA Langauge in Konkuk University|
-|2023.03 \~ 06| K-SW Square Program at Purdue University|
+|2023.03 \~ 06| Visiting Scholar at Purdue University as K-SW Square Program|
 
 <details markdown=1><summary markdown="span"><h4>Awards</h4></summary>
 

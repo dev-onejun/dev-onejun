@@ -20,10 +20,10 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 
 ## PROJECTS
 
-+ **| Team Lead | Deep Learning Researcher** - EEmaGe: EEG-based Image Generation for Visual Reconstruction Using Convolutional Autoencoders (and GANs) [[Project](https://github.com/dev-onejun/EEmaGe)]
-+ **Brain Imaging Researcher & Software Engineer** - 3D Visualization of Brain Pathology [[Project Page](https://dev-onejun.github.io/BCSC/)]
-+ **| Team Lead | MLOps Engineer & Researcher** - Deploying a Sustainable Deep Learning Pipeline for Poison Ivy Image Classification [[IEEE Paper](https://ieeexplore.ieee.org/abstract/document/10504331)]
-+ **| Team Lead | Backend Software Engineer** - Weltried: Sitting Posture Recognition With WELT Devices [[GitHub Organization](https://github.com/Weltried)]
++ Team Lead, Deep Learning Researcher - EEmaGe: EEG-based Image Generation for Visual Reconstruction Using Convolutional Autoencoders (and GANs) [[Project](https://github.com/dev-onejun/EEmaGe)]
++ Brain Imaging Researcher & Software Engineer - 3D Visualization of Brain Pathology [[Project Page](https://dev-onejun.github.io/BCSC/)]
++ Team Lead, MLOps Engineer & Researcher - Deploying a Sustainable Deep Learning Pipeline for Poison Ivy Image Classification [[IEEE Paper](https://ieeexplore.ieee.org/abstract/document/10504331)]
++ Team Lead, Backend Software Engineer - Weltried: Sitting Posture Recognition With WELT Devices [[GitHub Organization](https://github.com/Weltried)]
 
 - Contributor - [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 - Contributor - [dracula/tmux](https://github.com/dracula/tmux)

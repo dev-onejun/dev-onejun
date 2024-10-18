@@ -16,7 +16,7 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 
 * PyTorch, TensorFlow, Transformers, scikit-learn
 * Kubernetes, Docker, Vagrant
-* Python, JavaScript, VIM
+* Python, C, C++, VIM
 
 ## PROJECTS
 

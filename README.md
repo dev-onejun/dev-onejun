@@ -29,3 +29,16 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 - Contributor - [dracula/tmux](https://github.com/dracula/tmux)
 - Contributor - [lambdalisue/vim-battery](https://github.com/lambdalisue/vim-battery)
 - Contributor - [yohasebe/wp2txt](https://github.com/yohasebe/wp2txt)
+
+## AWARDS
+
+* Unicorn Award (3rd) - Summer Hackathon, Google Developer Group Campus Korea (Jun. 2022)
+* Idea Award - LINC+ Idea Content, Konkuk LINC+ (Jun. 2019)
+
+## CERTIFICATES
+
+* Certificate of Completion - Brain and Cognitive Science Community (Sep. 2024)
+* Certificate of Merit - Purdue University (Jun. 2023)
+* Certificate of Open Badge - Konkuk University (Mar. 2023)
+* Certificate of Youth Entrepreneurship Academy Completion - Learning Factory (Sep. 2021)
+* Certificate of Attendance and Marks - Universidad Internacional Menéndez Pelayo (Jul. 2019)

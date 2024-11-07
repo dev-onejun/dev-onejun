@@ -18,7 +18,7 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 * Kubernetes, Docker, Vagrant
 * Python, C, C++, VIM
 
-## PROJECTS
+## HIGHLIGHTED PROJECTS
 
 + Team Lead, Deep Learning Researcher - EEmaGe: EEG-based Image Generation for Visual Reconstruction Using Convolutional Autoencoders (and GANs) [[Project](https://github.com/dev-onejun/EEmaGe)]
 + Brain Imaging Researcher & Software Engineer - 3D Visualization of Brain Pathology [[Project Page](https://dev-onejun.github.io/BCSC/)]
@@ -30,10 +30,31 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 - Contributor - [lambdalisue/vim-battery](https://github.com/lambdalisue/vim-battery)
 - Contributor - [yohasebe/wp2txt](https://github.com/yohasebe/wp2txt)
 
+## HIGHLIGHTED COURSES
+
+### M.S. at University of Texas at Arlington
+
+* General Purpose GPU Programming
+* Neural Networks
+* Machine Learning
+* Data Mining
+* Design and Analysis of Algorithms
+
+### B.S. at Konkuk University
+
+* Natural Language Processing
+* Computer Vision
+* Signal Proceessing
+
 ## AWARDS
 
-* Unicorn Award (3rd) - Summer Hackathon, Google Developer Group Campus Korea (Jun. 2022)
-* Idea Award - LINC+ Idea Content, Konkuk LINC+ (Jun. 2019)
++ Unicorn Award (3rd) - Summer Hackathon, Google Developer Group Campus Korea (Jun. 2022)
++ Idea Award - LINC+ Idea Content, Konkuk LINC+ (Jun. 2019)
+
+- Dean's of Engineering Scholarship - University of Texas at Arlington (Sep. 2024)
+- Merit-based Academic Scholarship - Konkuk University (Mar. 2022)
+- Internationalization Scholarship - Konkuk University (Jul. 2019)
+- SW Activities Scholarship - Konkuk University (Jun. 2019, Dec. 2019)
 
 ## CERTIFICATES
 

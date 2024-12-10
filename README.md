@@ -35,17 +35,19 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 
 ### M.S. at University of Texas at Arlington
 
-* General Purpose GPU Programming
-* Neural Networks
-* Machine Learning
-* Data Mining
-* Design and Analysis of Algorithms
++ General Purpose GPU Programming
++ Neural Networks
++ Machine Learning
+
+- Data Mining [[repo](https://github.com/dev-onejun/CSE-5334), [review paper](https://dev-onejun.github.io/CSE-5334/papers/review.html), [assignments](https://github.com/dev-onejun/CSE-5334/tree/P1))]
+- Design and Analysis of Algorithms [[repo](https://github.com/dev-onejun/CSE-5311), [review paper](https://dev-onejun.github.io/CSE-5311/papers/review.html), [assignment demo](https://dev-onejun.github.io/CSE-5311/programming_assignment/demo)]
+- Data Analysis and Modeling Techniques [[repo](https://github.com/dev-onejun/CSE-5301), [review paper](https://dev-onejun.github.io/CSE-5301/papers/review.html)]
 
 ### B.S. at Konkuk University
 
-* Natural Language Processing
-* Computer Vision
-* Signal Proceessing
+* Natural Language Processing [private repo]
+* Computer Vision [[repo](https://github.com/dev-onejun/ComputerVision)]
+* Signal Proceessing [[repo](https://github.com/dev-onejun/SignalProcessing)]
 
 ## AWARDS
 

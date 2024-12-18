@@ -6,7 +6,7 @@
   <a href="https://dev-onejun.github.io"><img alt="Wonjun Park's GitHub Blog" src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Medium&logoColor=white" /></a>
 </p>
 
-<p align="center"><img alt="Wonjun Park's Github stats" src="http://github-readme-stats-dev-onejun.vercel.app/api?username=dev-onejun&show_icons=true&theme=dark" /></p>
+<p align="center"><img alt="Wonjun Park's Github stats (refresh a page)" src="http://github-readme-stats-dev-onejun.vercel.app/api?username=dev-onejun&show_icons=true&theme=dark" /></p>
 
 ## INTERESTS
 
@@ -18,22 +18,46 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 * Kubernetes, Docker, Vagrant
 * Python, C, C++, VIM
 
-## PROJECTS
+## HIGHLIGHTED PROJECTS
 
-+ Team Lead, Deep Learning Researcher - EEmaGe: EEG-based Image Generation for Visual Reconstruction Using Convolutional Autoencoders (and GANs) [[Project](https://github.com/dev-onejun/EEmaGe)]
-+ Brain Imaging Researcher & Software Engineer - 3D Visualization of Brain Pathology [[Project Page](https://dev-onejun.github.io/BCSC/)]
-+ Team Lead, MLOps Engineer & Researcher - Deploying a Sustainable Deep Learning Pipeline for Poison Ivy Image Classification [[IEEE Paper](https://ieeexplore.ieee.org/abstract/document/10504331)]
-+ Team Lead, Backend Software Engineer - Weltried: Sitting Posture Recognition With WELT Devices [[GitHub Organization](https://github.com/Weltried)]
++ Team Lead, Deep Learning Researcher - EEmaGe: EEG-based Image Generation for Visual Reconstruction Using Convolutional Autoencoders (and GANs) - [Project](https://github.com/dev-onejun/EEmaGe)
++ Brain Imaging Researcher & Software Engineer - 3D Visualization of Brain Pathology - [Project Page](https://dev-onejun.github.io/BCSC/)
++ Team Lead, MLOps Engineer & Researcher - Deploying a Sustainable Deep Learning Pipeline for Poison Ivy Image Classification - [IEEE Paper](https://ieeexplore.ieee.org/abstract/document/10504331)
++ Team Lead, Backend Software Engineer - Weltried: Sitting Posture Recognition With WELT Devices - [GitHub Organization](https://github.com/Weltried)
 
+- Contributor - [instant-markdown/instant-markdown-d](https://github.com/instant-markdown/instant-markdown-d)
 - Contributor - [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 - Contributor - [dracula/tmux](https://github.com/dracula/tmux)
 - Contributor - [lambdalisue/vim-battery](https://github.com/lambdalisue/vim-battery)
 - Contributor - [yohasebe/wp2txt](https://github.com/yohasebe/wp2txt)
 
+## HIGHLIGHTED COURSES
+
+### M.S. at University of Texas at Arlington
+
++ General Purpose GPU Programming
++ Neural Networks
++ Machine Learning
+
+- Data Mining - [repo](https://github.com/dev-onejun/CSE-5334), [review paper](https://dev-onejun.github.io/CSE-5334/papers/review.html), [assignments](https://github.com/dev-onejun/CSE-5334/tree/P1)
+- Design and Analysis of Algorithms - [repo](https://github.com/dev-onejun/CSE-5311), [review paper](https://dev-onejun.github.io/CSE-5311/papers/review.html), [assignment demo](https://dev-onejun.github.io/CSE-5311/programming_assignment/demo)
+- Data Analysis and Modeling Techniques - [repo](https://github.com/dev-onejun/CSE-5301), [review paper](https://dev-onejun.github.io/CSE-5301/papers/review.html)
+
+### B.S. at Konkuk University
+
+* Natural Language Processing - [private repo](https://github.com/dev-onejun/NaturalLanguageProcessing)
+* Computer Vision - [repo](https://github.com/dev-onejun/ComputerVision)
+* Signal Proceessing - [repo](https://github.com/dev-onejun/SignalProcessing)
+
 ## AWARDS
 
-* Unicorn Award (3rd) - Summer Hackathon, Google Developer Group Campus Korea (Jun. 2022)
-* Idea Award - LINC+ Idea Content, Konkuk LINC+ (Jun. 2019)
++ Unicorn Award (3rd) - Summer Hackathon, Google Developer Group Campus Korea (Jun. 2022)
++ Idea Award - LINC+ Idea Content, Konkuk LINC+ (Jun. 2019)
+
+- Dean's of Engineering Scholarship - University of Texas at Arlington (Sep. 2024)
+- Merit-based Academic Scholarship - Konkuk University (Mar. 2022)
+- Internationalization Scholarship - Konkuk University (Jul. 2019)
+- SW Activities Scholarship - Konkuk University (Jun. 2019, Dec. 2019)
 
 ## CERTIFICATES
 

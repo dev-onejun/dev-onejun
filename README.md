@@ -61,6 +61,7 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 
 ## CERTIFICATES
 
+* Certificate of Competency - NVIDIA (Jan. 2025) - [review paper](https://dev-onejun.github.io/NVIDIA-CUDA-Study/papers/review.html)
 * Certificate of Completion - Brain and Cognitive Science Community (Sep. 2024)
 * Certificate of Merit - Purdue University (Jun. 2023)
 * Certificate of Open Badge - Konkuk University (Mar. 2023)

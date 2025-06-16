@@ -1,9 +1,9 @@
 <h1 align="center">Wonjun (Jay) Park 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-onejun/"><img alt="Wonjun Park's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dev-onejun/"><img alt="Wonjun Park's LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://instagram.com/onejun_park"><img alt="Wonjun Park's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
-  <a href="https://dev-onejun.github.io"><img alt="Wonjun Park's GitHub Blog" src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Medium&logoColor=white" /></a>
+  <a href="https://dev-onejun.github.io"><img alt="Wonjun Park's GitHub Blog" src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center"><img alt="Wonjun Park's Github stats (refresh a page)" src="http://github-readme-stats-dev-onejun.vercel.app/api?username=dev-onejun&show_icons=true&theme=dark" /></p>

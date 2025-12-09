@@ -25,6 +25,7 @@ Machine Learning, Deep Learning, and Their Applications in Interdisciplinary Fie
 + Team Lead, MLOps Engineer & Researcher - Deploying a Sustainable Deep Learning Pipeline for Poison Ivy Image Classification - [IEEE Paper](https://ieeexplore.ieee.org/abstract/document/10504331)
 + Team Lead, Backend Software Engineer - Weltried: Sitting Posture Recognition With WELT Devices - [GitHub Organization](https://github.com/Weltried)
 
+- Contributor - [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
 - Contributor - [instant-markdown/instant-markdown-d](https://github.com/instant-markdown/instant-markdown-d)
 - Contributor - [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 - Contributor - [dracula/tmux](https://github.com/dracula/tmux)
